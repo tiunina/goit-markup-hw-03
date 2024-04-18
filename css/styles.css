@@ -52,8 +52,8 @@ img{
 .header-list{
   display: flex;
   gap: 40px;
-  padding: 24px 0;
 }
+
 .logo {
   font-weight: 700;
   font-family: "Raleway", sans-serif;
@@ -75,6 +75,9 @@ img{
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  
+}
+.header-li{
   padding-top: 24px 0;
 }
 .nav-link:hover, 
@@ -230,12 +233,13 @@ img{
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  margin-bottom: 8px;
 }
 .our-portfolio-p{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-bottom: 8px;
+  
 }
 .our-portfolio-list{
   display: flex;
@@ -260,6 +264,7 @@ img{
 
 }
 .logo-footer{
+  display: inline-block;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -269,7 +274,6 @@ img{
   color: #4d5ae5;
   padding-top: 101.5px;
   padding-bottom: 17.5px;
-  display: inline-block;
   margin-bottom: 16px; 
 }
 
