@@ -51,7 +51,6 @@ img{
 .header-list{
   display: flex;
   gap: 40px;
-  /*padding: 24px 0;*/
 }
 
 .logo {
@@ -62,7 +61,6 @@ img{
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  padding: 24px 0;
   margin-right: 76px;
 }
 
@@ -78,7 +76,7 @@ img{
   
 }
 .header-li{
-  padding-top: 24px 0;
+  padding: 24px 0 24px;
 }
 .nav-link:hover, 
 .nav-link:focus{
