@@ -116,7 +116,6 @@ img{
   max-width: 496px;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 188px;
   margin-bottom: 48px;
 }
 .hero-button{
@@ -136,7 +135,6 @@ img{
   height: 56px;
   border: none;
   
-  margin-bottom: 188px;
   margin-left: auto;
   margin-right: auto;
 
@@ -277,24 +275,16 @@ img{
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-
-  padding-top: 101.5px;
-  padding-bottom: 17.5px;
   margin-bottom: 16px; 
-  
 }
 
 .logo-footer-part{
-
   color: #f4f4fd;
-  
 }
 .footer-p{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-  margin-right: 1020px;
-  margin-bottom: 100px;
   width: 264px;
 }
